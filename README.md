@@ -14,7 +14,7 @@
 1. **NDA Sports Academy Website**  
    A complete sports academy platform with eSports sections and user interaction features.  
 
-2. **Portfolio**  
+2. **Portfolio**  -[Link](https://jinendra-dodiya-portfolio.netlify.app/)
    A responsive React-based portfolio website showcasing skills, projects, and achievements with a modern and professional design.  
 
 3. **Rental Attires Websit**  
