@@ -14,10 +14,10 @@
 1. **NDA Sports Academy Website**  
    A complete sports academy platform with eSports sections and user interaction features.  
 
-2. **Food Ordering App**  
-   A full-stack application with features like user registration, food orders, and checkout functionality.  
+2. **Portfolio**  
+   A responsive React-based portfolio website showcasing skills, projects, and achievements with a modern and professional design.  
 
-3. **Rental Attires Website**  
+3. **Rental Attires Websit**  
    Designed a website for rental attire services with a seamless user interface.  
 
 ### 🤝 Connect With Me  
