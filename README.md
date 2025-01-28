@@ -1,9 +1,9 @@
-# 👋 Hi, I’m @jsdodiya  
+# 👋 Hi, I’m Jinendra 
 - 👀 I’m interested in crafting elegant, responsive, and user-friendly web applications.  
 - 🌱 I’m currently learning advanced frontend development techniques and exploring the backend world.  
 - 💞️ I’m looking to collaborate on projects involving **React**, **Redux**, **Tailwind CSS**, and **shadcn/ui**.  
 - 📫 How to reach me: [jinendradodiya9@gmail.com](mailto:jinendradodiya9@gmail.com)  
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: JS
 - ⚡ Fun fact: I enjoy solving complex problems, building smooth user experiences, and occasionally playing cricket in my free time.  
 
 ### 🛠️ Tech Stack  
