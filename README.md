@@ -22,7 +22,7 @@
 
 ### 🤝 Connect With Me  
 - [GitHub](https://github.com/jsdodiya)  
-- [LinkedIn](#) *(Add your LinkedIn URL)*  
+- [LinkedIn](https://www.linkedin.com/in/jinendra-pal-dodiya-8a7a21151/) *(Add your LinkedIn URL)*  
 
 <!---
 jsdodiya/jsdodiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
