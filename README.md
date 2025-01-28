@@ -17,7 +17,7 @@
 2. **- [Portfolio](https://jinendra-dodiya-portfolio.netlify.app/)**  
    A responsive React-based portfolio website showcasing skills, projects, and achievements with a modern and professional design.  
 
-4. **-[Modern Landing Page](https://landing-page-git-main-js-dodiyas-projects.vercel.app/)**  
+4. **- [Modern Landing Page](https://landing-page-git-main-js-dodiyas-projects.vercel.app/)**  
    Designed a website for rental attire services with a seamless user interface.  
 
 ### 🤝 Connect With Me  
