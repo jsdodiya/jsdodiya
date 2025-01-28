@@ -18,7 +18,7 @@
        A responsive React-based portfolio website showcasing skills, projects, and achievements with a modern and professional design.  
 
 4. **- [Modern Landing Page](https://landing-page-git-main-js-dodiyas-projects.vercel.app/)**  
-       Designed a website for rental attire services with a seamless user interface.  
+          A sleek and responsive landing page built with React and Tailwind CSS, designed to highlight businesses or products with a modern aesthetic. 
 
 ### 🤝 Connect With Me  
 - [GitHub](https://github.com/jsdodiya)  
