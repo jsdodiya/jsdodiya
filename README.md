@@ -6,8 +6,6 @@
 - 😄 Pronouns: JS
 - ⚡ Fun fact: I enjoy solving complex problems, building smooth user experiences, and occasionally playing cricket in my free time.
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=jsdodiya&style=flat-square&color=blue)
-
 ### 🛠️ Tech Stack  
 - **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, JavaScript, shadcn/ui  
 - **Design:** Responsive Design, Animations, UI/UX Improvements  
@@ -26,6 +24,8 @@
 - [GitHub](https://github.com/jsdodiya)  
 - [LinkedIn](https://www.linkedin.com/in/jinendra-pal-dodiya-8a7a21151/)
 - [Instagram](https://www.instagram.com/jinendra.dodiya/)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=jsdodiya&style=flat-square&color=blue)
 
 <!---
 jsdodiya/jsdodiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
