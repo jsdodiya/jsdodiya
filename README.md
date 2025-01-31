@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on projects involving **React**, **Redux**, **Tailwind CSS**, and **shadcn/ui**.  
 - 📫 How to reach me: [jinendradodiya9@gmail.com](mailto:jinendradodiya9@gmail.com)  
 - 😄 Pronouns: JS
-- ⚡ Fun fact: I enjoy solving complex problems, building smooth user experiences, and occasionally playing cricket in my free time.  
+- ⚡ Fun fact: I enjoy solving complex problems, building smooth user experiences, and occasionally playing cricket in my free time.
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, JavaScript, shadcn/ui  
