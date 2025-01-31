@@ -6,7 +6,7 @@
 - 😄 Pronouns: JS
 - ⚡ Fun fact: I enjoy solving complex problems, building smooth user experiences, and occasionally playing cricket in my free time.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=jsdodiya&style=flat-square&color=blue)
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, JavaScript, shadcn/ui  
