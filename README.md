@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I enjoy solving complex problems, building smooth user experiences, and occasionally playing cricket in my free time.
 
 ### 🛠️ Tech Stack  
-- **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, JavaScript, shadcn/ui  
+- **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, JavaScript, shadcn/ui
+- **Backend:** Node JS, Express, MongoDB
 - **Design:** Responsive Design, Animations, UI/UX Improvements  
 
 ### 🌟 Projects  
